@@ -1,12 +1,14 @@
-* How to get the dependency modules?
-** $ npm install
+# node-hello-world
 
-* How to get the bower components?
-** $ bower install bootstrap
-** $ bower install jquery
+## How to get the dependency modules?
+ $ npm install
 
-* How to run the app?
-** $ node app
+## How to get the bower components?
+ $ bower install bootstrap
+ $ bower install jquery
 
-* Application URL
-** http://localhost:3001/
+## How to run the app?
+ $ node app
+
+## Application URL
+ http://localhost:3001/
